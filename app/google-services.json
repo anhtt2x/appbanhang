@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "200128718748",
+    "project_id": "shoesshopping-67112",
+    "storage_bucket": "shoesshopping-67112.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200128718748:android:6e2286fac95706fa858a59",
+        "android_client_info": {
+          "package_name": "com.tienanh.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200128718748-mgvu804s4h49qbc437j008opurhfdjit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzbPra86ugSDPfAGEYdj83e8eHNr6w5I4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200128718748-mgvu804s4h49qbc437j008opurhfdjit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
